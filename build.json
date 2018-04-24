@@ -1,10 +1,10 @@
 {
     "android": {
         "debug": {
-            "keystore": "build/debug.keystore",
-            "storePassword": "debug123",
-            "alias": "alias_name",
-            "password" : "debug123",
+            "keystore": "build/keystore.private",
+            "storePassword": "9909900019",
+            "alias": "uandhgroup",
+            "password" : "9909900019",
             "keystoreType": ""
         }
     }
