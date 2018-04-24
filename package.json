@@ -8,7 +8,8 @@
         "monaca-plugin-monaca-core": "3.2.0",
         "cordova-plugin-file": "5.0.0",
         "cordova-plugin-inappbrowser": "2.0.1",
-        "cordova-plugin-statusbar": "2.4.1"
+        "cordova-plugin-statusbar": "2.4.1",
+        "cordova-plugin-file-transfer": "1.7.0"
     },
     "cordova": {
         "plugins": {
@@ -18,7 +19,8 @@
             "monaca-plugin-monaca-core": {},
             "cordova-plugin-file": {},
             "cordova-plugin-inappbrowser": {},
-            "cordova-plugin-statusbar": {}
+            "cordova-plugin-statusbar": {},
+            "cordova-plugin-file-transfer": {}
         }
     }
 }
